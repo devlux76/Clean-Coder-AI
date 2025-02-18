@@ -6,7 +6,7 @@ langgraph-checkpoint==2.0.4
 python-dotenv==1.0.1
 langchain-anthropic==0.2.1
 langchain-openai==0.3.4
-langchain-ollama==0.2.0
+langchain-ollama==0.2.3
 playwright==1.47.0
 libsass==0.23.0
 openai==1.61.1
